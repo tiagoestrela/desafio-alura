@@ -8,7 +8,7 @@ function exibirTextoNaTela(tag, texto) {
 
 
 exibirTextoNaTela('h1', 'Jogo do número secreto');
-exibirTextoNaTela('p', 'Escolha um número secreto de 1 a 20');
+exibirTextoNaTela('p', 'Escolha um número secreto de 1 a 30');
 
 function verificarChute() {
     let chute = document.querySelector('input').value;
